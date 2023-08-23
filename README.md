@@ -48,5 +48,6 @@ Some of the more obvious detailed size comparisons are as follows.
 
 ## Future Work
 Future work in the near future is to further refine the simplify function above and merge it into upstream, followed by the optimization of the findSymbolicIntegerLexMin function mentioned by mentor.
+
 In the long run, I've got a good understanding of MLIR and FPL related functions, and I'll try to continue to contribute to FPL and try to optimize more functions.
 ## Acknowledgement
