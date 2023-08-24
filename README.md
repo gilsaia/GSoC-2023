@@ -51,3 +51,4 @@ Future work in the near future is to further refine the simplify function above 
 
 In the long run, I've got a good understanding of MLIR and FPL related functions, and I'll try to continue to contribute to FPL and try to optimize more functions.
 ## Acknowledgement
+I'd like to express my gratitude to the entire community for their presence and helpful suggestions. I'm especially thankful for my mentor, Kunwar Grover, who has been there to assist, guide, and support me. His involvement has been a significant motivation for me to keep progressing. I also want to mention that he consistently directed me in refining the Benchmark and provided insightful suggestions, which made me feel like I was being taught step by step to undertake more advanced tasks. This was truly impressive to me. He generously offered his assistance during this period, promptly responding to my emails, reviewing my patches, and providing valuable advice.
